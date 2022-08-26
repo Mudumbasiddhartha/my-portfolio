@@ -73,6 +73,10 @@
     backdrop-filter: blur(20px);
     
 }
+#intro {
+    align-items: center;
+    justify-content: center;
+}
 
 .card p {
     font-size: 10px;
@@ -93,6 +97,7 @@
 
 .dropdown:hover .card {
     display: block;
+    position: absolute;
 }
 
 .menu-btn img {
@@ -104,6 +109,7 @@
     margin-right: 0px;
 
 }
+
 
 /* home */
 
@@ -294,7 +300,7 @@
 }
 
 #pic img {
-    height: 300px;
+    width: 50%;
 
 }
 
