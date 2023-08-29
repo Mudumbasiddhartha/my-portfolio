@@ -323,7 +323,34 @@ img.widthIncrease{
     width: 300px;
     height: auto;
 }
-
+.tb{
+    color: black;
+}
+#education{
+    color: black;
+    /* taj */
+}
+.special{
+    margin-left: 4.8vw;
+}
+.vitimg{
+    margin-left: 30vw;
+}
+#education img{
+    margin-left: 3vw;
+    margin-top: 0.5vh;
+}
+.container{
+    color: black;
+}
+.details{
+    margin-top: 8vh;
+    /* margin-right: 30vw; */
+}
+h4.my-3{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
 h1.heading.projFont{
     margin-bottom: 20px;
     margin-top: 20px;
