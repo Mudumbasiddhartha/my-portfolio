@@ -51,10 +51,15 @@
     /*display: inline-block; */
     /* float: left; */
     overflow: hidden; 
+    color:white;
     /* display: flex; */
     flex: 1;
 
     /* justify-self: left; */
+}
+.dropdown h3{
+    color: white;
+
 }
 
 .card {
@@ -159,15 +164,15 @@
     margin:8px;
 } */
 .mainpic {
-    object-fit: cover;
+    /* object-fit:cover; */
     margin: 0;
     margin-left: 20px;
     width: 50%;
 }
 
 .mainpic img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 50%;
 }
 
 #services {
@@ -405,6 +410,7 @@ div.box.mbless{
     text-align: center;
     padding: 20px;
 }
+
 
 .form {
     display: flex;
